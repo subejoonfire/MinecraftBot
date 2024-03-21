@@ -1,0 +1,46 @@
+{
+  "bot-account": {
+    "username": "BotPlopps",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "jokowi666.aternos.me",
+    "port": 52274,
+    "version": "1.18.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 60,
+
+      "messages": [
+        "0"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 1
+  }
+}
